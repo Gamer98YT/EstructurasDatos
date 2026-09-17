@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="PracticasDatos" Database="" Version="10000">
+  <Project Name="Ejemplo01" Path="Ejemplo01/Ejemplo01.project" Active="No"/>
+  <Project Name="Ejemplo02" Path="Ejemplo02/Ejemplo02.project" Active="Yes"/>
+  <Project Name="Ejemplo03" Path="Ejemplo03/Ejemplo03.project" Active="No"/>
+  <Project Name="Ejemplo04" Path="Ejemplo04/Ejemplo04.project" Active="No"/>
+  <Project Name="Ejemplo05" Path="Ejemplo05/Ejemplo05.project" Active="No"/>
+  <Project Name="Ejemplo06" Path="Ejemplo06/Ejemplo06.project" Active="No"/>
+  <Project Name="Ejemplo07" Path="Ejemplo07/Ejemplo07.project" Active="No"/>
+  <Project Name="Ejemplo08" Path="Ejemplo08/Ejemplo08.project" Active="No"/>
+  <Project Name="Ejemplo09" Path="Ejemplo09/Ejemplo09.project"/>
+  <Project Name="Ejemplo10" Path="Ejemplo10/Ejemplo10.project"/>
+  <Project Name="Ejemplo11" Path="Ejemplo11/Ejemplo11.project"/>
+  <Project Name="Ejemplo12" Path="Ejemplo12/Ejemplo12.project"/>
+  <Project Name="EjemploPasoPorReferencia" Path="EjemploPasoPorReferencia/EjemploPasoPorReferencia.project"/>
+  <Project Name="EjemploPasoDeArgumentos" Path="EjemploPasoDeArgumentos/EjemploPasoDeArgumentos.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Ejemplo01" ConfigName="Debug"/>
+      <Project Name="Ejemplo02" ConfigName="Debug"/>
+      <Project Name="Ejemplo03" ConfigName="Debug"/>
+      <Project Name="Ejemplo04" ConfigName="Debug"/>
+      <Project Name="Ejemplo05" ConfigName="Debug"/>
+      <Project Name="Ejemplo06" ConfigName="Debug"/>
+      <Project Name="Ejemplo07" ConfigName="Debug"/>
+      <Project Name="Ejemplo08" ConfigName="Debug"/>
+      <Project Name="Ejemplo09" ConfigName="Debug"/>
+      <Project Name="Ejemplo10" ConfigName="Debug"/>
+      <Project Name="Ejemplo11" ConfigName="Debug"/>
+      <Project Name="Ejemplo12" ConfigName="Debug"/>
+      <Project Name="EjemploPasoPorReferencia" ConfigName="Debug"/>
+      <Project Name="EjemploPasoDeArgumentos" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Ejemplo01" ConfigName="Release"/>
+      <Project Name="Ejemplo02" ConfigName="Release"/>
+      <Project Name="Ejemplo03" ConfigName="Release"/>
+      <Project Name="Ejemplo04" ConfigName="Release"/>
+      <Project Name="Ejemplo05" ConfigName="Release"/>
+      <Project Name="Ejemplo06" ConfigName="Release"/>
+      <Project Name="Ejemplo07" ConfigName="Release"/>
+      <Project Name="Ejemplo08" ConfigName="Release"/>
+      <Project Name="Ejemplo09" ConfigName="Release"/>
+      <Project Name="Ejemplo10" ConfigName="Release"/>
+      <Project Name="Ejemplo11" ConfigName="Release"/>
+      <Project Name="Ejemplo12" ConfigName="Release"/>
+      <Project Name="EjemploPasoPorReferencia" ConfigName="Release"/>
+      <Project Name="EjemploPasoDeArgumentos" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
